@@ -1,2 +1,2 @@
 **THIS IS QUERA.ORG DJANGO COURSE PROJECT**
-[x] Project init
+[] Project init
